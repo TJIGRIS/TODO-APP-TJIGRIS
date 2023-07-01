@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{tjigris.github.io/TODO-APP-TJIGRIS/}">
+    <a href="https://{tjigris.github.io/TODO-APP-TJIGRIS/all}">
       Demo
     </a>
     <span> | </span>
