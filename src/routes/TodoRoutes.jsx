@@ -12,6 +12,7 @@ export function TodoRoutes() {
         <Header />
         <Routes>
           <Route path="/" element={<AllTask />} />
+          <Route path="/*" element={<AllTask />} />
           <Route path="/all" element={<AllTask />} />
           <Route path="/active" element={<ActiveTask />} />
           <Route path="/complete" element={<CompleteTask />} />
