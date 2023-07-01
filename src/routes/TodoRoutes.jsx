@@ -4,7 +4,6 @@ import { Header } from '../pages/Header'
 import { AllTask } from '../pages/AllTask'
 import { ActiveTask } from '../pages/ActiveTask'
 import { CompleteTask } from '../pages/CompleteTask'
-import { NoFound } from '../pages/NoFound'
 
 export function TodoRoutes() {
   return (
