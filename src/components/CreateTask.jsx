@@ -14,7 +14,7 @@ export function CreateTask() {
 
   const handleAddTask = (event) => {
     event.preventDefault()
-    if (newTask === '') return alert('No hay tarea')
+    if (newTask === '') return alert('No hay tarea para crear')
 
     addTask(newTask)
     setNewTask('')
