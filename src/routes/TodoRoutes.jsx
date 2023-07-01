@@ -16,7 +16,6 @@ export function TodoRoutes() {
           <Route path="/all" element={<AllTask />} />
           <Route path="/active" element={<ActiveTask />} />
           <Route path="/complete" element={<CompleteTask />} />
-          <Route path="/*" element={<NoFound />} />
         </Routes>
       </BrowserRouter>
     </div>
